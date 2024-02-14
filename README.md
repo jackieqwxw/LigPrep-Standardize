@@ -10,5 +10,11 @@ Activate the RDKit enviroment:
 
 ```conda activate rdkit-tools```
 
+Install RDKit:
+
+```
+conda install -c conda-forge rdkit
+```
+
 Run the script:
 ```python3 standardize.py inputfilename.smi outputfilename.smi```
