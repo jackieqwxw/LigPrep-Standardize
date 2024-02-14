@@ -1,0 +1,41 @@
+[22:17:22] Tautomer enumeration stopped at 160 tautomers: max transforms reached
+[22:17:34] Tautomer enumeration stopped at 205 tautomers: max transforms reached
+[22:17:35] Tautomer enumeration stopped at 197 tautomers: max transforms reached
+[22:17:41] Tautomer enumeration stopped at 197 tautomers: max transforms reached
+[22:17:41] Tautomer enumeration stopped at 191 tautomers: max transforms reached
+[22:17:57] Tautomer enumeration stopped at 200 tautomers: max transforms reached
+[22:17:57] Tautomer enumeration stopped at 200 tautomers: max transforms reached
+[22:18:08] Tautomer enumeration stopped at 205 tautomers: max transforms reached
+[22:18:12] Tautomer enumeration stopped at 205 tautomers: max transforms reached
+[22:18:13] Tautomer enumeration stopped at 191 tautomers: max transforms reached
+[22:18:15] Tautomer enumeration stopped at 205 tautomers: max transforms reached
+[22:18:15] Tautomer enumeration stopped at 191 tautomers: max transforms reached
+[22:18:18] Tautomer enumeration stopped at 185 tautomers: max transforms reached
+[22:18:18] Tautomer enumeration stopped at 185 tautomers: max transforms reached
+[22:18:19] Tautomer enumeration stopped at 275 tautomers: max transforms reached
+[22:18:19] Tautomer enumeration stopped at 264 tautomers: max transforms reached
+[22:18:23] Tautomer enumeration stopped at 185 tautomers: max transforms reached
+[22:18:27] Tautomer enumeration stopped at 185 tautomers: max transforms reached
+[22:18:27] Tautomer enumeration stopped at 185 tautomers: max transforms reached
+[22:18:28] Tautomer enumeration stopped at 185 tautomers: max transforms reached
+[22:18:28] Tautomer enumeration stopped at 195 tautomers: max transforms reached
+[22:18:29] Tautomer enumeration stopped at 275 tautomers: max transforms reached
+[22:18:54] Can't kekulize mol.  Unkekulized atoms: 8 12
+[22:18:54] Can't kekulize mol.  Unkekulized atoms: 8 12
+[22:18:54] Can't kekulize mol.  Unkekulized atoms: 8 12
+[22:18:54] Can't kekulize mol.  Unkekulized atoms: 8 12
+[22:18:54] Can't kekulize mol.  Unkekulized atoms: 8 12
+[22:18:55] Can't kekulize mol.  Unkekulized atoms: 8 12
+[22:18:55] Can't kekulize mol.  Unkekulized atoms: 8 12
+[22:18:55] Can't kekulize mol.  Unkekulized atoms: 8 12
+##############################################################
+#  Ligand preparation / standardization for virtual screening
+#
+#  Computational Biophysics & Drug Design (Kireev lab)
+#
+#  Developed by Akila Mettu and Xiaowen Wang
+##############################################################
+
+10,000 ligands read from [/storage/hpc/group/kireevlab/Tools/virtual_screening/01.Ligand_Preparation/A.standardize/molport_10k.smi]
+2,094 ligands modified
+9,992 ligands written to [/storage/hpc/group/kireevlab/Tools/virtual_screening/01.Ligand_Preparation/A.standardize/standardize.smi]
